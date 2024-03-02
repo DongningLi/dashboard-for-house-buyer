@@ -1,6 +1,6 @@
 # Dashboard4HouseBuyers
 
-Collaborate with classmates from GEOM90007
+Collaborate with classmates from GEOM90007, which contains the source code part of the GEOM90007 course at the University of Melbourne.
 
 ## Run the app using:
 `shinyApp(ui = ui, server = server)`
