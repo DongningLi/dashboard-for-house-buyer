@@ -1,5 +1,7 @@
 # Dashboard4HouseBuyers
 
+Collaborate with classmates from GEOM90007
+
 ## Run the app using:
 `shinyApp(ui = ui, server = server)`
 
